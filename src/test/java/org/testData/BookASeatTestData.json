@@ -1,0 +1,7 @@
+{
+  "browserName": "chrome",
+  "ScreenWidth": "1024",
+  "ScreenHeight": "768",
+  "url": "https://ksrtc.in/oprs-web/guest/home.do?h=1"
+
+}
